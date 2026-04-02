@@ -1,4 +1,7 @@
--- Border.lua
+--[[
+	screenBorder.lua
+	Written by https://github.com/DevEmilRBLX
+]]
 
 local Border = {}
 Border.__index = Border

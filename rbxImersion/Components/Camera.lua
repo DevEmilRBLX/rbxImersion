@@ -1,7 +1,7 @@
 --[[
 	Camera.lua
 	Written by https://github.com/DevEmilRBLX
-	Documentation: https://github.com/DevEmilRBLX/rbxImersion/wiki/Camera
+	Documentation: https://github.com/DevEmilRBLX/rbxImmersion/wiki/Camera
 ]]
 
 local CameraController = {}

@@ -1,7 +1,7 @@
 --[[
 	screenBorder.lua
 	Written by https://github.com/DevEmilRBLX
-	Documentation: https://github.com/DevEmilRBLX/rbxImersion/wiki/Screen-Border
+	Documentation: https://github.com/DevEmilRBLX/rbxImmersion/wiki/Screen-Border
 ]]
 
 local Border = {}

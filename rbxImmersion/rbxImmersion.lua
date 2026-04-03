@@ -6,8 +6,8 @@ type Modules = {
 	screenBorder: ScreenBorderModule
 }
 
-local rbxImersion: Modules = {
+local rbxImmersion: Modules = {
 	screenBorder = require(Components.screenBorder),
 }
 
-return rbxImersion
+return rbxImmersion

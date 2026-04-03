@@ -21,7 +21,7 @@ function Border:_createBorder()
 	local playerGui = player:WaitForChild("PlayerGui")
 
 	local screenGui = Instance.new("ScreenGui")
-	screenGui.Name = "_rbxImersion_Border"
+	screenGui.Name = "_rbxImmersion_Border"
 	screenGui.Parent = playerGui
 	screenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 	screenGui.SafeAreaCompatibility = Enum.SafeAreaCompatibility.None
